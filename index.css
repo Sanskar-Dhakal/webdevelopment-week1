@@ -1,0 +1,12 @@
+h1{
+    color: red;
+    border: 2px dotted green;
+    border-radius: 12px;
+    height: 45px;
+    width: 450px;
+    text-align: center;
+    background-color: yellow;
+    padding: 10px;
+    border: 12px;
+    margin: 0px 450px 0px 450px;
+}
